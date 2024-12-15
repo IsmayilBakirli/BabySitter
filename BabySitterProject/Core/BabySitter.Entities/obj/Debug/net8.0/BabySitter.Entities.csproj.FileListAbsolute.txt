@@ -1,0 +1,12 @@
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Entities\bin\Debug\net8.0\BabySitter.Entities.deps.json
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Entities\bin\Debug\net8.0\BabySitter.Entities.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Entities\bin\Debug\net8.0\BabySitter.Entities.pdb
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Entities\obj\Debug\net8.0\BabySitter.Entities.csproj.AssemblyReference.cache
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Entities\obj\Debug\net8.0\BabySitter.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Entities\obj\Debug\net8.0\BabySitter.Entities.AssemblyInfoInputs.cache
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Entities\obj\Debug\net8.0\BabySitter.Entities.AssemblyInfo.cs
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Entities\obj\Debug\net8.0\BabySitter.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Entities\obj\Debug\net8.0\BabySitter.Entities.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Entities\obj\Debug\net8.0\refint\BabySitter.Entities.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Entities\obj\Debug\net8.0\BabySitter.Entities.pdb
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Entities\obj\Debug\net8.0\ref\BabySitter.Entities.dll

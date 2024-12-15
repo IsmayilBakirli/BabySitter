@@ -1,0 +1,11 @@
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Application\bin\Debug\net8.0\BabySitter.Application.deps.json
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Application\bin\Debug\net8.0\BabySitter.Application.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Application\bin\Debug\net8.0\BabySitter.Application.pdb
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Application\obj\Debug\net8.0\BabySitter.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Application\obj\Debug\net8.0\BabySitter.Application.AssemblyInfoInputs.cache
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Application\obj\Debug\net8.0\BabySitter.Application.AssemblyInfo.cs
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Application\obj\Debug\net8.0\BabySitter.Application.csproj.CoreCompileInputs.cache
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Application\obj\Debug\net8.0\BabySitter.Application.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Application\obj\Debug\net8.0\refint\BabySitter.Application.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Application\obj\Debug\net8.0\BabySitter.Application.pdb
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Application\obj\Debug\net8.0\ref\BabySitter.Application.dll

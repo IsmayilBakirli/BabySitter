@@ -1,0 +1,91 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{D6DB7E85-3576-40E4-8DFE-B2439B808FB1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CORE", "CORE", "{AE74902A-3F80-452B-BCF8-91737BF957A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabySitter.Repositories.Contracts", "..\Core\BabySitter.Repositories.Contracts\BabySitter.Repositories.Contracts.csproj", "{4447C2D0-BE60-4264-9964-649588C2E8EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabySitter.Services.Contracts", "..\Core\BabySitter.Services.Contracts\BabySitter.Services.Contracts.csproj", "{A011A53E-3138-4F26-B6FC-7B1C7B76F6A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabySitter.Shared", "..\Core\BabySitter.Shared\BabySitter.Shared.csproj", "{9CF92B32-7C90-47D2-B636-C20F5634E483}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabySitter.Application", "..\Core\BabySitter.Application\BabySitter.Application.csproj", "{9E856DE6-473D-4630-A083-CCA67B06AA98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabySitter.Entities", "..\Core\BabySitter.Entities\BabySitter.Entities.csproj", "{C8449619-3A01-4358-A837-18BEFF299187}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{8387B710-3AC0-45E4-8380-9DBC095328EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabySitter.ExternalServices", "..\Infrastructure\BabySitter.ExternalServices\BabySitter.ExternalServices.csproj", "{2C01693C-A7C6-45FB-90AF-3D1B1430C4D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabySitter.Presentatiton", "..\Infrastructure\BabySitter.Presentatiton\BabySitter.Presentatiton.csproj", "{6CCACC6E-76D0-4D78-8984-2F38629715FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabySitter.Repositories", "..\Infrastructure\BabySitter.Repositories\BabySitter.Repositories.csproj", "{00BDE479-01E9-49D6-9BB5-58B41FADEF3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabySitter.Services", "..\Infrastructure\BabySitter.Services\BabySitter.Services.csproj", "{7DBA10EA-C850-4BEC-89FD-642778A467C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6DB7E85-3576-40E4-8DFE-B2439B808FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6DB7E85-3576-40E4-8DFE-B2439B808FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6DB7E85-3576-40E4-8DFE-B2439B808FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6DB7E85-3576-40E4-8DFE-B2439B808FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4447C2D0-BE60-4264-9964-649588C2E8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4447C2D0-BE60-4264-9964-649588C2E8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4447C2D0-BE60-4264-9964-649588C2E8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4447C2D0-BE60-4264-9964-649588C2E8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A011A53E-3138-4F26-B6FC-7B1C7B76F6A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A011A53E-3138-4F26-B6FC-7B1C7B76F6A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A011A53E-3138-4F26-B6FC-7B1C7B76F6A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A011A53E-3138-4F26-B6FC-7B1C7B76F6A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF92B32-7C90-47D2-B636-C20F5634E483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF92B32-7C90-47D2-B636-C20F5634E483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF92B32-7C90-47D2-B636-C20F5634E483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF92B32-7C90-47D2-B636-C20F5634E483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E856DE6-473D-4630-A083-CCA67B06AA98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E856DE6-473D-4630-A083-CCA67B06AA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E856DE6-473D-4630-A083-CCA67B06AA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E856DE6-473D-4630-A083-CCA67B06AA98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8449619-3A01-4358-A837-18BEFF299187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8449619-3A01-4358-A837-18BEFF299187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8449619-3A01-4358-A837-18BEFF299187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8449619-3A01-4358-A837-18BEFF299187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C01693C-A7C6-45FB-90AF-3D1B1430C4D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C01693C-A7C6-45FB-90AF-3D1B1430C4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C01693C-A7C6-45FB-90AF-3D1B1430C4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C01693C-A7C6-45FB-90AF-3D1B1430C4D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CCACC6E-76D0-4D78-8984-2F38629715FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCACC6E-76D0-4D78-8984-2F38629715FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCACC6E-76D0-4D78-8984-2F38629715FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCACC6E-76D0-4D78-8984-2F38629715FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00BDE479-01E9-49D6-9BB5-58B41FADEF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00BDE479-01E9-49D6-9BB5-58B41FADEF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00BDE479-01E9-49D6-9BB5-58B41FADEF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00BDE479-01E9-49D6-9BB5-58B41FADEF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DBA10EA-C850-4BEC-89FD-642778A467C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DBA10EA-C850-4BEC-89FD-642778A467C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DBA10EA-C850-4BEC-89FD-642778A467C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DBA10EA-C850-4BEC-89FD-642778A467C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4447C2D0-BE60-4264-9964-649588C2E8EC} = {AE74902A-3F80-452B-BCF8-91737BF957A9}
+		{A011A53E-3138-4F26-B6FC-7B1C7B76F6A9} = {AE74902A-3F80-452B-BCF8-91737BF957A9}
+		{9CF92B32-7C90-47D2-B636-C20F5634E483} = {AE74902A-3F80-452B-BCF8-91737BF957A9}
+		{9E856DE6-473D-4630-A083-CCA67B06AA98} = {AE74902A-3F80-452B-BCF8-91737BF957A9}
+		{C8449619-3A01-4358-A837-18BEFF299187} = {AE74902A-3F80-452B-BCF8-91737BF957A9}
+		{2C01693C-A7C6-45FB-90AF-3D1B1430C4D2} = {8387B710-3AC0-45E4-8380-9DBC095328EE}
+		{6CCACC6E-76D0-4D78-8984-2F38629715FD} = {8387B710-3AC0-45E4-8380-9DBC095328EE}
+		{00BDE479-01E9-49D6-9BB5-58B41FADEF3A} = {8387B710-3AC0-45E4-8380-9DBC095328EE}
+		{7DBA10EA-C850-4BEC-89FD-642778A467C2} = {8387B710-3AC0-45E4-8380-9DBC095328EE}
+	EndGlobalSection
+EndGlobal

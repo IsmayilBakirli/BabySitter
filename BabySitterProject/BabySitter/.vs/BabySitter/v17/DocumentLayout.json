@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\BabySitter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBA10EA-C850-4BEC-89FD-642778A467C2}|..\\Infrastructure\\BabySitter.Services\\BabySitter.Services.csproj|c:\\users\\ismay\u0131l\\desktop\\babysitterproject\\infrastructure\\babysitter.services\\buisness\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BDE479-01E9-49D6-9BB5-58B41FADEF3A}|..\\Infrastructure\\BabySitter.Repositories\\BabySitter.Repositories.csproj|c:\\users\\ismay\u0131l\\desktop\\babysitterproject\\infrastructure\\babysitter.repositories\\mssqldb\\mssqldbrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BDE479-01E9-49D6-9BB5-58B41FADEF3A}|..\\Infrastructure\\BabySitter.Repositories\\BabySitter.Repositories.csproj|c:\\users\\ismay\u0131l\\desktop\\babysitterproject\\infrastructure\\babysitter.repositories\\mssqldb\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCACC6E-76D0-4D78-8984-2F38629715FD}|..\\Infrastructure\\BabySitter.Presentatiton\\BabySitter.Presentatiton.csproj|c:\\users\\ismay\u0131l\\desktop\\babysitterproject\\infrastructure\\babysitter.presentatiton\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DB7E85-3576-40E4-8DFE-B2439B808FB1}|API\\API.csproj|c:\\users\\ismay\u0131l\\desktop\\babysitterproject\\babysitter\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6DB7E85-3576-40E4-8DFE-B2439B808FB1}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCACC6E-76D0-4D78-8984-2F38629715FD}|..\\Infrastructure\\BabySitter.Presentatiton\\BabySitter.Presentatiton.csproj|c:\\users\\ismay\u0131l\\desktop\\babysitterproject\\infrastructure\\babysitter.presentatiton\\projectreferance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBA10EA-C850-4BEC-89FD-642778A467C2}|..\\Infrastructure\\BabySitter.Services\\BabySitter.Services.csproj|c:\\users\\ismay\u0131l\\desktop\\babysitterproject\\infrastructure\\babysitter.services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A011A53E-3138-4F26-B6FC-7B1C7B76F6A9}|..\\Core\\BabySitter.Services.Contracts\\BabySitter.Services.Contracts.csproj|c:\\users\\ismay\u0131l\\desktop\\babysitterproject\\core\\babysitter.services.contracts\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCACC6E-76D0-4D78-8984-2F38629715FD}|..\\Infrastructure\\BabySitter.Presentatiton\\BabySitter.Presentatiton.csproj|c:\\users\\ismay\u0131l\\desktop\\babysitterproject\\infrastructure\\babysitter.presentatiton\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCACC6E-76D0-4D78-8984-2F38629715FD}|..\\Infrastructure\\BabySitter.Presentatiton\\BabySitter.Presentatiton.csproj|c:\\users\\ismay\u0131l\\desktop\\babysitterproject\\infrastructure\\babysitter.presentatiton\\controllers\\babysittercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A011A53E-3138-4F26-B6FC-7B1C7B76F6A9}|..\\Core\\BabySitter.Services.Contracts\\BabySitter.Services.Contracts.csproj|c:\\users\\ismay\u0131l\\desktop\\babysitterproject\\core\\babysitter.services.contracts\\business\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BDE479-01E9-49D6-9BB5-58B41FADEF3A}|..\\Infrastructure\\BabySitter.Repositories\\BabySitter.Repositories.csproj|c:\\users\\ismay\u0131l\\desktop\\babysitterproject\\infrastructure\\babysitter.repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8449619-3A01-4358-A837-18BEFF299187}|..\\Core\\BabySitter.Entities\\BabySitter.Entities.csproj|c:\\users\\ismay\u0131l\\desktop\\babysitterproject\\core\\babysitter.entities\\babysitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4447C2D0-BE60-4264-9964-649588C2E8EC}|..\\Core\\BabySitter.Repositories.Contracts\\BabySitter.Repositories.Contracts.csproj|c:\\users\\ismay\u0131l\\desktop\\babysitterproject\\core\\babysitter.repositories.contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BDE479-01E9-49D6-9BB5-58B41FADEF3A}|..\\Infrastructure\\BabySitter.Repositories\\BabySitter.Repositories.csproj|c:\\users\\ismay\u0131l\\desktop\\babysitterproject\\infrastructure\\babysitter.repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Repositories\\Migrations\\20241215141016_addedProduc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BDE479-01E9-49D6-9BB5-58B41FADEF3A}|..\\Infrastructure\\BabySitter.Repositories\\BabySitter.Repositories.csproj|c:\\users\\ismay\u0131l\\desktop\\babysitterproject\\infrastructure\\babysitter.repositories\\mssqldb\\babysitterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8449619-3A01-4358-A837-18BEFF299187}|..\\Core\\BabySitter.Entities\\BabySitter.Entities.csproj|c:\\users\\ismay\u0131l\\desktop\\babysitterproject\\core\\babysitter.entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4447C2D0-BE60-4264-9964-649588C2E8EC}|..\\Core\\BabySitter.Repositories.Contracts\\BabySitter.Repositories.Contracts.csproj|c:\\users\\ismay\u0131l\\desktop\\babysitterproject\\core\\babysitter.repositories.contracts\\mssqldb\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4447C2D0-BE60-4264-9964-649588C2E8EC}|..\\Core\\BabySitter.Repositories.Contracts\\BabySitter.Repositories.Contracts.csproj|c:\\users\\ismay\u0131l\\desktop\\babysitterproject\\core\\babysitter.repositories.contracts\\mssqldb\\ibabysitterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 265,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BabySitter.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Core\\BabySitter.Entities\\BabySitter.cs",
+              "RelativeDocumentMoniker": "..\\Core\\BabySitter.Entities\\BabySitter.cs",
+              "ToolTip": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Core\\BabySitter.Entities\\BabySitter.cs",
+              "RelativeToolTip": "..\\Core\\BabySitter.Entities\\BabySitter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:23:52.542Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectReferance.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Presentatiton\\ProjectReferance.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\BabySitter.Presentatiton\\ProjectReferance.cs",
+              "ToolTip": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Presentatiton\\ProjectReferance.cs",
+              "RelativeToolTip": "..\\Infrastructure\\BabySitter.Presentatiton\\ProjectReferance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:39:42.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Core\\BabySitter.Services.Contracts\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "..\\Core\\BabySitter.Services.Contracts\\IServiceManager.cs",
+              "ToolTip": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Core\\BabySitter.Services.Contracts\\IServiceManager.cs",
+              "RelativeToolTip": "..\\Core\\BabySitter.Services.Contracts\\IServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:34:40.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Presentatiton\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\BabySitter.Presentatiton\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Presentatiton\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "..\\Infrastructure\\BabySitter.Presentatiton\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:33:03.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\BabySitter\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\BabySitter\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:20:32.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\BabySitter.Services\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Services\\ServiceManager.cs",
+              "RelativeToolTip": "..\\Infrastructure\\BabySitter.Services\\ServiceManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:15:39.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Services\\Buisness\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\BabySitter.Services\\Buisness\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Services\\Buisness\\ProductService.cs",
+              "RelativeToolTip": "..\\Infrastructure\\BabySitter.Services\\Buisness\\ProductService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:11:41.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Repositories\\MSSQLDB\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\BabySitter.Repositories\\MSSQLDB\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Repositories\\MSSQLDB\\ProductRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\BabySitter.Repositories\\MSSQLDB\\ProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:36:21.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MsSqlDbRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Repositories\\MSSQLDB\\MsSqlDbRepositoryBase.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\BabySitter.Repositories\\MSSQLDB\\MsSqlDbRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Repositories\\MSSQLDB\\MsSqlDbRepositoryBase.cs",
+              "RelativeToolTip": "..\\Infrastructure\\BabySitter.Repositories\\MSSQLDB\\MsSqlDbRepositoryBase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:10:50.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Presentatiton\\BaseController.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\BabySitter.Presentatiton\\BaseController.cs",
+              "ToolTip": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Presentatiton\\BaseController.cs",
+              "RelativeToolTip": "..\\Infrastructure\\BabySitter.Presentatiton\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:33:14.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BabySitterController.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Presentatiton\\Controllers\\BabySitterController.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\BabySitter.Presentatiton\\Controllers\\BabySitterController.cs",
+              "ToolTip": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Presentatiton\\Controllers\\BabySitterController.cs",
+              "RelativeToolTip": "..\\Infrastructure\\BabySitter.Presentatiton\\Controllers\\BabySitterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:32:33.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Repositories\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\BabySitter.Repositories\\RepositoryManager.cs",
+              "ToolTip": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Repositories\\RepositoryManager.cs",
+              "RelativeToolTip": "..\\Infrastructure\\BabySitter.Repositories\\RepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:12:31.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241215141016_addedProduc.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Repositories\\Migrations\\20241215141016_addedProduc.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\BabySitter.Repositories\\Migrations\\20241215141016_addedProduc.cs",
+              "ToolTip": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Repositories\\Migrations\\20241215141016_addedProduc.cs",
+              "RelativeToolTip": "..\\Infrastructure\\BabySitter.Repositories\\Migrations\\20241215141016_addedProduc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:10:16.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Core\\BabySitter.Services.Contracts\\Business\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\Core\\BabySitter.Services.Contracts\\Business\\IProductService.cs",
+              "ToolTip": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Core\\BabySitter.Services.Contracts\\Business\\IProductService.cs",
+              "RelativeToolTip": "..\\Core\\BabySitter.Services.Contracts\\Business\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:35:05.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Core\\BabySitter.Repositories.Contracts\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "..\\Core\\BabySitter.Repositories.Contracts\\IRepositoryManager.cs",
+              "ToolTip": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Core\\BabySitter.Repositories.Contracts\\IRepositoryManager.cs",
+              "RelativeToolTip": "..\\Core\\BabySitter.Repositories.Contracts\\IRepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:13:56.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Repositories\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\BabySitter.Repositories\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Repositories\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Infrastructure\\BabySitter.Repositories\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:07:24.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BabySitterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Repositories\\MSSQLDB\\BabySitterRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\BabySitter.Repositories\\MSSQLDB\\BabySitterRepository.cs",
+              "ToolTip": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Infrastructure\\BabySitter.Repositories\\MSSQLDB\\BabySitterRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\BabySitter.Repositories\\MSSQLDB\\BabySitterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:37:50.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Core\\BabySitter.Repositories.Contracts\\MSSQLDB\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Core\\BabySitter.Repositories.Contracts\\MSSQLDB\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Core\\BabySitter.Repositories.Contracts\\MSSQLDB\\IProductRepository.cs",
+              "RelativeToolTip": "..\\Core\\BabySitter.Repositories.Contracts\\MSSQLDB\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:31:58.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Core\\BabySitter.Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Core\\BabySitter.Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Core\\BabySitter.Entities\\Product.cs",
+              "RelativeToolTip": "..\\Core\\BabySitter.Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:23:28.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBabySitterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Core\\BabySitter.Repositories.Contracts\\MSSQLDB\\IBabySitterRepository.cs",
+              "RelativeDocumentMoniker": "..\\Core\\BabySitter.Repositories.Contracts\\MSSQLDB\\IBabySitterRepository.cs",
+              "ToolTip": "C:\\Users\\ismay\u0131l\\Desktop\\BabySitterProject\\Core\\BabySitter.Repositories.Contracts\\MSSQLDB\\IBabySitterRepository.cs",
+              "RelativeToolTip": "..\\Core\\BabySitter.Repositories.Contracts\\MSSQLDB\\IBabySitterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:35:31.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 142,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

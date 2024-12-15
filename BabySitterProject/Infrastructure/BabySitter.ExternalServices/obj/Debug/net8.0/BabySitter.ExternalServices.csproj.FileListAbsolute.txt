@@ -1,0 +1,11 @@
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.ExternalServices\bin\Debug\net8.0\BabySitter.ExternalServices.deps.json
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.ExternalServices\bin\Debug\net8.0\BabySitter.ExternalServices.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.ExternalServices\bin\Debug\net8.0\BabySitter.ExternalServices.pdb
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.ExternalServices\obj\Debug\net8.0\BabySitter.ExternalServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.ExternalServices\obj\Debug\net8.0\BabySitter.ExternalServices.AssemblyInfoInputs.cache
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.ExternalServices\obj\Debug\net8.0\BabySitter.ExternalServices.AssemblyInfo.cs
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.ExternalServices\obj\Debug\net8.0\BabySitter.ExternalServices.csproj.CoreCompileInputs.cache
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.ExternalServices\obj\Debug\net8.0\BabySitter.ExternalServices.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.ExternalServices\obj\Debug\net8.0\refint\BabySitter.ExternalServices.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.ExternalServices\obj\Debug\net8.0\BabySitter.ExternalServices.pdb
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.ExternalServices\obj\Debug\net8.0\ref\BabySitter.ExternalServices.dll

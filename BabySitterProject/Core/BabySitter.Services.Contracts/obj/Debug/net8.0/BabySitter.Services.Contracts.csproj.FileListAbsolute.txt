@@ -1,0 +1,15 @@
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Services.Contracts\bin\Debug\net8.0\BabySitter.Services.Contracts.deps.json
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Services.Contracts\bin\Debug\net8.0\BabySitter.Services.Contracts.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Services.Contracts\bin\Debug\net8.0\BabySitter.Services.Contracts.pdb
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Services.Contracts\obj\Debug\net8.0\BabySitter.Services.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Services.Contracts\obj\Debug\net8.0\BabySitter.Services.Contracts.AssemblyInfoInputs.cache
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Services.Contracts\obj\Debug\net8.0\BabySitter.Services.Contracts.AssemblyInfo.cs
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Services.Contracts\obj\Debug\net8.0\BabySitter.Services.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Services.Contracts\obj\Debug\net8.0\BabySitter.Services.Contracts.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Services.Contracts\obj\Debug\net8.0\refint\BabySitter.Services.Contracts.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Services.Contracts\obj\Debug\net8.0\BabySitter.Services.Contracts.pdb
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Services.Contracts\obj\Debug\net8.0\ref\BabySitter.Services.Contracts.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Services.Contracts\bin\Debug\net8.0\BabySitter.Entities.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Services.Contracts\bin\Debug\net8.0\BabySitter.Entities.pdb
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Services.Contracts\obj\Debug\net8.0\BabySitter.Services.Contracts.csproj.AssemblyReference.cache
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Services.Contracts\obj\Debug\net8.0\BabySitt.0AB744F8.Up2Date

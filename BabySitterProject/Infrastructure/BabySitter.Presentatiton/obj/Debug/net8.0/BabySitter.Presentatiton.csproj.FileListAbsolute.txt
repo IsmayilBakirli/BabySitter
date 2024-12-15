@@ -1,0 +1,17 @@
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.Presentatiton\obj\Debug\net8.0\BabySitter.Presentatiton.csproj.AssemblyReference.cache
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.Presentatiton\obj\Debug\net8.0\BabySitter.Presentatiton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.Presentatiton\obj\Debug\net8.0\BabySitter.Presentatiton.AssemblyInfoInputs.cache
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.Presentatiton\obj\Debug\net8.0\BabySitter.Presentatiton.AssemblyInfo.cs
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.Presentatiton\obj\Debug\net8.0\BabySitter.Presentatiton.csproj.CoreCompileInputs.cache
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.Presentatiton\bin\Debug\net8.0\BabySitter.Presentatiton.deps.json
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.Presentatiton\bin\Debug\net8.0\BabySitter.Presentatiton.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.Presentatiton\bin\Debug\net8.0\BabySitter.Presentatiton.pdb
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.Presentatiton\bin\Debug\net8.0\BabySitter.Entities.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.Presentatiton\bin\Debug\net8.0\BabySitter.Services.Contracts.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.Presentatiton\bin\Debug\net8.0\BabySitter.Entities.pdb
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.Presentatiton\bin\Debug\net8.0\BabySitter.Services.Contracts.pdb
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.Presentatiton\obj\Debug\net8.0\BabySitt.02F0435D.Up2Date
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.Presentatiton\obj\Debug\net8.0\BabySitter.Presentatiton.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.Presentatiton\obj\Debug\net8.0\refint\BabySitter.Presentatiton.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.Presentatiton\obj\Debug\net8.0\BabySitter.Presentatiton.pdb
+C:\Users\ismayıl\Desktop\BabysitterProject\Infrastructure\BabySitter.Presentatiton\obj\Debug\net8.0\ref\BabySitter.Presentatiton.dll

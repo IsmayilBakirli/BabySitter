@@ -1,0 +1,15 @@
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Repositories.Contracts\bin\Debug\net8.0\BabySitter.Repositories.Contracts.deps.json
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Repositories.Contracts\bin\Debug\net8.0\BabySitter.Repositories.Contracts.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Repositories.Contracts\bin\Debug\net8.0\BabySitter.Repositories.Contracts.pdb
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Repositories.Contracts\obj\Debug\net8.0\BabySitter.Repositories.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Repositories.Contracts\obj\Debug\net8.0\BabySitter.Repositories.Contracts.AssemblyInfoInputs.cache
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Repositories.Contracts\obj\Debug\net8.0\BabySitter.Repositories.Contracts.AssemblyInfo.cs
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Repositories.Contracts\obj\Debug\net8.0\BabySitter.Repositories.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Repositories.Contracts\obj\Debug\net8.0\BabySitter.Repositories.Contracts.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Repositories.Contracts\obj\Debug\net8.0\refint\BabySitter.Repositories.Contracts.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Repositories.Contracts\obj\Debug\net8.0\BabySitter.Repositories.Contracts.pdb
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Repositories.Contracts\obj\Debug\net8.0\ref\BabySitter.Repositories.Contracts.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Repositories.Contracts\bin\Debug\net8.0\BabySitter.Entities.dll
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Repositories.Contracts\bin\Debug\net8.0\BabySitter.Entities.pdb
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Repositories.Contracts\obj\Debug\net8.0\BabySitter.Repositories.Contracts.csproj.AssemblyReference.cache
+C:\Users\ismayıl\Desktop\BabysitterProject\Core\BabySitter.Repositories.Contracts\obj\Debug\net8.0\BabySitt.44DAEE05.Up2Date
